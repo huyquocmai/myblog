@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled 
+95b85c9cdf727f6301d4ab4988675697dcb07af1 refs/remotes/origin/dev
+0e715c2f236ccb8fae65c552f338bcdbbe208066 refs/remotes/origin/gh-pages
+eefaced348fade01161f9428bc818d54c59c5d35 refs/remotes/origin/master
+8c36e0d2089971afde68b7e4d5df98ecc9dd21b4 refs/remotes/origin/site
+3e929ba4352a43f05a546d96c15e8454ade4d487 refs/tags/v0.1.0
+b421b47e18c923cca338989401c35c5d914ca927 refs/tags/v0.2.0
+b6e0c3a9fd0593bbb87f5d6c05bf55c88b962ea6 refs/tags/v0.2.1
