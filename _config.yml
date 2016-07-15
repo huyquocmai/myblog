@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Huy Mai
 subtitle:
 description:
-author: John Doe
+author: Huy Mai
 language:
 timezone:
 
@@ -19,7 +19,7 @@ permalink_defaults:
 
 # Directory
 source_dir: source
-public_dir: public
+public_dir: .
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
